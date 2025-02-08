@@ -10,7 +10,7 @@ const items = [
     color: "from-red-300 to-blue-300",
     title: "Book Store App",
     desc: "This is a MERN stack bookstoring app styled with Tailwind CSS. Users can perform CRUD operations on books. Backend is hosted on Render and frontend on Netlify, utilizing React Icons library for icons.",
-    img: "https://images.unsplash.com/photo-1547082299-de196ea013d6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    img: "https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     link: "https://gleeful-swan-2b4bbb.netlify.app/",
     git: "https://github.com/akshayofficial4/bookstorefront",
   },
