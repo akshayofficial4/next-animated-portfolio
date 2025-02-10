@@ -11,8 +11,11 @@
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
     "framer-motion": "^11.0.3",
+<<<<<<< HEAD
     "lucide": "^0.475.0",
     "lucide-react": "^0.475.0",
+=======
+>>>>>>> 5c1ac00d604a6ad8d53398af44fd26c22c74856c
     "next": "14.1.0",
     "react": "18",
     "react-dom": "18"
