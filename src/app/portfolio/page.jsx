@@ -209,11 +209,11 @@ const PortfolioPage = () => {
                     ))}
                   </div>
                   <div className="flex justify-between items-center mt-auto">
-                    <a href={project.demoLink} className="flex items-center gap-1 text-blue-600 hover:text-blue-700 text-sm">
+                    <a target="_blank" href={project.demoLink} className="flex items-center gap-1 text-blue-600 hover:text-blue-700 text-sm">
                       <ExternalLink size={16} />
                       <span>Demo</span>
                     </a>
-                    <a href={project.githubLink} className="flex items-center gap-1 text-blue-600 hover:text-blue-700 text-sm">
+                    <a target="_blank" href={project.githubLink} className="flex items-center gap-1 text-blue-600 hover:text-blue-700 text-sm">
                       <Github size={16} />
                       <span>Code</span>
                     </a>
