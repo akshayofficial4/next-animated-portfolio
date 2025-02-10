@@ -233,10 +233,14 @@ const PortfolioPage = () => {
           <div className="bg-gradient-to-br from-white/80 to-white/40 backdrop-blur-sm p-6 rounded-xl inline-block border border-white/20">
             <h3 className="text-2xl font-bold text-gray-800 mb-3">Do you have a project?</h3>
             <p className="text-gray-600 mb-4">MERN Stack & React.js Developer</p>
+
+
+            <a href='/contact'>
             <button className="flex items-center gap-2 mx-auto bg-blue-500 hover:bg-blue-600 text-white px-5 py-2.5 rounded-lg transition-colors">
               <span>Hire Me</span>
               <ArrowRight size={18} />
             </button>
+            </a>
           </div>
         </motion.div>
       </div>
