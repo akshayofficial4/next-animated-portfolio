@@ -5,6 +5,16 @@ import { ExternalLink, Github, ArrowRight } from 'lucide-react';
 
 const PortfolioPage = () => {
   const projects = [
+
+     {
+      id: 1,
+      title: "TODO-APP V2",
+      desc: "Built and deployed a JWT-secured Todo application used for task management, featuring role-based access and persistent data storage.Technologies used here MongoDB, Express.js, React.js (Vite), Node.js, Tailwind CSS, JWT, Render, Vercel",
+      image: "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg",
+      demoLink: "https://https://todo-app-v2-nu.vercel.app/",
+      githubLink: "https://github.com/akshayofficial4/todo-app-v2",
+      tags: ["React", "Node.js", "Express js", "MongoDB", "TailwindCSS", "JWT"]
+    },
    
     {
       id: 1,
